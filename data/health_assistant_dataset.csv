@@ -1,0 +1,1251 @@
+text,intent,response
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Su içme,general_health,Günde en az 8 bardak su için.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+İyi günler,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Bye,goodbye,Bye! Her zaman buradayım.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Su içme,general_health,Günde en az 8 bardak su için.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Su içme,general_health,Günde en az 8 bardak su için.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Bye,goodbye,Bye! Her zaman buradayım.
+Bu sabah başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Su içme,general_health,Günde en az 8 bardak su için.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Hey,greeting,Hey! Size nasıl yardımcı olabilirim?
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bu sabah başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Bye,goodbye,Bye! Her zaman buradayım.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Su içme,general_health,Günde en az 8 bardak su için.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Su içme,general_health,Günde en az 8 bardak su için.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Su içme,general_health,Günde en az 8 bardak su için.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Bye,goodbye,Bye! Her zaman buradayım.
+Bu sabah başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Bu sabah başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Su içme,general_health,Günde en az 8 bardak su için.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Nasılsın,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Su içme,general_health,Günde en az 8 bardak su için.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Bye,goodbye,Bye! Her zaman buradayım.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Su içme,general_health,Günde en az 8 bardak su için.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Ateşim var var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Su içme,general_health,Günde en az 8 bardak su için.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Su içme,general_health,Günde en az 8 bardak su için.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Su içme,general_health,Günde en az 8 bardak su için.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Su içme,general_health,Günde en az 8 bardak su için.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Bye,goodbye,Bye! Her zaman buradayım.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Su içme,general_health,Günde en az 8 bardak su için.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Su içme,general_health,Günde en az 8 bardak su için.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Su içme,general_health,Günde en az 8 bardak su için.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Selam,greeting,Selam! Sağlık asistanınızım.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Su içme,general_health,Günde en az 8 bardak su için.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Su içme,general_health,Günde en az 8 bardak su için.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Su içme,general_health,Günde en az 8 bardak su için.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Su içme,general_health,Günde en az 8 bardak su için.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Bye,goodbye,Bye! Her zaman buradayım.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Bu sabah uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Merhaba,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Bu sabah göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Bye,goodbye,Bye! Her zaman buradayım.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Bu sabah çarpıntı,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Kaza geçirdim,emergency,Kaza sonrası hemen sağlık ekibi çağırın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bu sabah mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Selam sağlık asistanı,greeting,Selam! Sağlık asistanınızım.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Mide bulantım var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Teşekkürler,goodbye,Rica ederim! Sağlıklı kalın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Başım ağrıyor çok şiddetli,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Boğazım ağrıyor var,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Boğazım ağrıyor çok şiddetli,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Bu sabah yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Görüşürüz,goodbye,Görüşmek üzere! İyi günler.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Su içme,general_health,Günde en az 8 bardak su için.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Su içme,general_health,Günde en az 8 bardak su için.
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Hey sağlık asistanı,greeting,Hey! Size nasıl yardımcı olabilirim?
+Bye,goodbye,Bye! Her zaman buradayım.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Bye,goodbye,Bye! Her zaman buradayım.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Sağ ol,goodbye,Sağ olun! Sağlıklı günler.
+Bu sabah ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Çarpıntı çok şiddetli,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Çarpıntı var,symptom_inquiry,"Çarpıntı için derin nefes alın, sürekli olursa kardiyolog görün."
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Su içme,general_health,Günde en az 8 bardak su için.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Bu sabah sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Bu sabah diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Ateşim var çok şiddetli,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Başım ağrıyor var,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Göğsümde ağrı var,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Sağlıklı beslenme,general_health,Dengeli beslenme için çeşitli besin grupları tüketin.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Nasılsın sağlık asistanı,greeting,"İyiyim, teşekkürler! Size nasıl yardımcı olabilirim?"
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Sırtım ağrıyor var,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Egzersiz önerileri,general_health,Haftada 150 dakika orta tempolu egzersiz yapın.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Mide bulantım var var,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Yorgunluk,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+Aspirin yan etkileri,medication_info,"Aspirin mide tahriş edebilir, dikkatli kullanın."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Bu sabah başım ağrıyor,symptom_inquiry,"Baş ağrısı stres, uykusuzluk veya dehidratasyon sebebiyle olabilir."
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Doktor randevusu,appointment_booking,MHRS sisteminden randevu alabilirsiniz.
+Diz ağrım var çok şiddetli,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Ateşim var,symptom_inquiry,Ateş vücudun enfeksiyonla mücadele ettiğini gösterir. Bol sıvı alın.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Göğsümde ağrı,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Parol nasıl kullanılır,medication_info,Parol yetişkinler için 8 saatte bir 500mg.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Uykusuzluk var,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Nefes alamıyorum,emergency,Nefes darlığında hemen acile başvurun!
+Hangi doktora gideyim,doctor_recommendation,Şikayetinize göre doktor önerebilirim.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Baş ağrısı hangi doktor,doctor_recommendation,Baş ağrısı için nöroloji veya dahiliye.
+Bu sabah boğazım ağrıyor,symptom_inquiry,Boğaz ağrısı için ılık tuzlu su ile gargara yapabilirsiniz.
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Hoşçakal,goodbye,Hoşçakalın! Kendinize iyi bakın.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Göğsümde ağrı çok şiddetli,symptom_inquiry,"Göğüs ağrısı ciddi olabilir, doktora başvurun."
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Yorgunluk çok şiddetli,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Kalp problemi doktor,doctor_recommendation,Kalp sorunları için kardiyoloji.
+Uykusuzluk,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Yorgunluk var,symptom_inquiry,Sürekli yorgunluk anemi veya tiroid sorunu belirtisi olabilir.
+Mide bulantım var çok şiddetli,symptom_inquiry,"Bulantı için az ve sık yemek yiyin, zencefil çayı faydalı."
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Bayıldım,emergency,Bayılma durumunda 112'yi arayın.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Stres yönetimi,general_health,Stres için nefes egzersizleri ve meditasyon faydalı.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Diz ağrım var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Kardiyoloji randevusu,appointment_booking,Kardiyoloji için 182'yi arayabilirsiniz.
+Diz ağrım var var,symptom_inquiry,Diz ağrısı için dinlenme ve soğuk kompres uygulayın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Şiddetli ağrı,emergency,Şiddetli ağrı için acil servise gidin.
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
+Sırtım ağrıyor,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Merhaba sağlık asistanı,greeting,Merhaba! Size nasıl yardımcı olabilirim?
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Sırtım ağrıyor çok şiddetli,symptom_inquiry,Sırt ağrısı için doğru oturuş ve hafif egzersiz faydalı.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Çocuk doktoru,doctor_recommendation,Çocuklar için pediatri uzmanı.
+Cilt problemi doktor,doctor_recommendation,Cilt için dermatoloji uzmanı.
+Göz doktoru randevusu,appointment_booking,Göz doktoru için online sistem kullanın.
+Antibiyotik kullanımı,medication_info,Antibiyotik doktor reçetesi ile kullanılır.
+Kalp krizi,emergency,Kalp krizi şüphesinde hemen 112'yi arayın!
+Uyku düzeni,general_health,7-9 saat düzenli uyku önemli.
+Uykusuzluk çok şiddetli,symptom_inquiry,Uyku düzeni için düzenli saatler ve rahat ortam önemli.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Vitamin D eksikliği,medication_info,Vitamin D için güneş ışığı ve takviye önemli.
+Randevu almak istiyorum,appointment_booking,Hangi bölümden randevu almak istiyorsunuz?
+İyi günler sağlık asistanı,greeting,İyi günler! Sağlık konularında yardımcıyım.
+İlaç dozu,medication_info,İlaç dozu doktor önerisi ile belirlenir.
+Acil randevu,appointment_booking,Acil durumlar için acil servise başvurun.
