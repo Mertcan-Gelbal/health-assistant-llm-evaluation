@@ -1,5 +1,7 @@
 # Health Assistant — LLM Evaluation Prototype
 
+[![CI](https://github.com/Mertcan-Gelbal/health-assistant-llm-evaluation/actions/workflows/ci.yml/badge.svg)](https://github.com/Mertcan-Gelbal/health-assistant-llm-evaluation/actions/workflows/ci.yml)
+
 **Language:** English · [Türkçe](./README.tr.md)
 
 A Streamlit app that **compares two LLM APIs** (Google Gemini and OpenAI GPT) on Turkish health-assistant conversations, with intent classification over 8 categories and a keyless demo mode.
