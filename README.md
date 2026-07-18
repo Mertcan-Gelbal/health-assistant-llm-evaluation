@@ -58,8 +58,8 @@ Intent distribution (verified from the CSV):
 ## Installation
 
 ```bash
-git clone https://github.com/Mertcan-Gelbal/health-assistant-chatbot.git
-cd health-assistant-chatbot
+git clone https://github.com/Mertcan-Gelbal/health-assistant-llm-evaluation.git
+cd health-assistant-llm-evaluation
 pip install -r requirements.txt
 ```
 
