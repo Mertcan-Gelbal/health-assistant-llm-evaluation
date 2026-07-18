@@ -322,9 +322,17 @@ Soru kategorisi: {intent}
                 print(f"Hata oluştu: {e}\n")
 
 if __name__ == "__main__":
-    # Test için örnek kullanım
-    api_key = "AIzaSyBZB-4xCuegghEabq-RAIwxuL3CE3-4bP0"  # Gerçek API key kullanın
-    
+    # Read the key from the environment; never hardcode secrets in source.
+    # Set GOOGLE_API_KEY in your shell or in a local .env (see .env.example).
+    import os
+
+    api_key = os.getenv("GOOGLE_API_KEY", "")
+    if not api_key:
+        raise SystemExit(
+            "GOOGLE_API_KEY is not set. Export it or add it to a local .env file "
+            "(see .env.example). The demo mode in run_app.py works without a key."
+        )
+
     try:
         # Model initialize et
         gemini_model = GeminiModel(api_key)
